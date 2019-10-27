@@ -1,4 +1,3 @@
-name = kenneth
 language = Ruby
 
 # def introduction(name)
